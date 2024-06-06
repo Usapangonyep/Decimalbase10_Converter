@@ -1,0 +1,6 @@
+C:\Users\EJ\Desktop\Conversion\Conversion\bin\Debug\Conversion.exe.config
+C:\Users\EJ\Desktop\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\EJ\Desktop\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\EJ\Desktop\Conversion\Conversion\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+C:\Users\EJ\Desktop\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\EJ\Desktop\Conversion\Conversion\obj\Debug\Conversion.pdb
